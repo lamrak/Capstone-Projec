@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin_top">8dp</dimen>
+    <dimen name="activity_vertical_margin_big">40dp</dimen>
+
+    <dimen name="fab_elevation">8dp</dimen>
+    <dimen name="fab_press_translation_z">9dp</dimen>
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="fab_size_small">40dp</dimen>
+    <dimen name="fab_icon_size">24dp</dimen>
+    <dimen name="weather_icon_margin">2dp</dimen>
+    <dimen name="height_photoholder">300dp</dimen>
+    <dimen name="weather_icons_list_item_size">22dp</dimen>
+    <dimen name="empty_view_text_size">20sp</dimen>
+    <dimen name="default_margin_top">8dp</dimen>
+
+    <!--photo dialog-->
+    <dimen name="photo_dialog_text_size">20sp</dimen>
+    <dimen name="photo_dialog_horizontal_margin">24dp</dimen>
+    <dimen name="photo_dialog_vertical_margin">24dp</dimen>
+    <dimen name="photo_dialog_bottom_vertical_margin">32dp</dimen>
+
+    <!--weather dialog-->
+    <dimen name="wd_bottom_margin">12dp</dimen>
+    <dimen name="height_map">150dp</dimen>
+    <dimen name="card_radius">4dp</dimen>
+    <dimen name="scrollview_holder_height">110dp</dimen>
+
+    <!-- devices support -->
+    <dimen name="width_place_land">400dp</dimen>
+    <dimen name="width_land_edit_text">300dp</dimen>
+    <dimen name="width_land_weather">280dp</dimen>
+    <dimen name="width_land_add_fishing">400dp</dimen>
+</resources>
